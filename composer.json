@@ -1,5 +1,5 @@
 {
-    "name": "xjryanse/prize",
+    "name": "xjryanse/phyexam",
     "description": "价格规则表，基于TP框架",
     "type": "library",
     "authors": [
@@ -14,7 +14,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-          "xjryanse\\prize\\": "src/"
+          "xjryanse\\phyexam\\": "src/"
         }
     }
 }
